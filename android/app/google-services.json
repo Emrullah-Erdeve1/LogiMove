@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "251449010578",
+    "firebase_url": "https://logimove-f4b43-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "logimove-f4b43",
+    "storage_bucket": "logimove-f4b43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251449010578:android:91963815f97e260fc1b94b",
+        "android_client_info": {
+          "package_name": "com.example.logimoveprot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATNp5tikvmOG_bqt4PSUhActjPZ8uZPF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
